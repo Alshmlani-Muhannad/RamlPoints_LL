@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title data-translate="pageTitle">RamlPoints - Transform Your Loyalty Points Into Real Cash</title>
+    <title>RamlPoints - Transform Your Loyalty Points Into Real Cash</title>
     <meta name="description" content="Convert your unused banking and wallet loyalty points into real cash transfers. Trusted by RamlGroup - Simple, secure, transparent." />
     <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/rtl-styles.css" />
@@ -23,7 +23,7 @@
     </div>
     <div>
                         <h1 class="text-xl font-cairo font-bold text-secondary">RamlPoints</h1>
-                        <p class="text-xs text-text-secondary" data-translate="companyTagline">by RamlGroup</p>
+                        <p class="text-xs text-text-secondary">by RamlGroup</p>
                     </div>
                 </div>
 
@@ -127,13 +127,191 @@
                 <div class="card-elevated">
                     <div class="text-center mb-6">
                         <h3 class="text-2xl font-cairo font-bold text-secondary mb-2" data-translate="calculatorTitle">Quick Conversion Calculator</h3>
-                        <p class="text-text-secondary" data-translate="step3Desc">Get your cash transfer or Discount code for our services within 2 business days maximum.</p>
+                        <p class="text-text-secondary" data-translate="calculatorSubtitle">Estimate your potential earnings in SAR</p>
+                    </div>
+
+                    <form class="space-y-6">
+                        <!-- Program Selection -->
+                        <div>
+                            <label class="block text-sm font-medium text-text-primary mb-3" data-translate="selectProgram">Select Your Loyalty Program</label>
+                            <div class="grid grid-cols-2 gap-3">
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="alrajhi" data-rate="0.0039">
+                                    <img src="images/mokafa.png" alt="Al Rajhi Bank" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">Al Rajhi</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.0039 SAR/point</div>
+                                </button>
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="qitaf" data-rate="0.16">
+                                    <img src="images/qitaf.png" alt="Qitaf" class="w-11 h-12 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">Qitaf</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.16 SAR/point</div>
+                                </button>
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="alinma" data-rate="0.0028">
+                                    <img src="images/akther.png" alt="Akther Alinma loyalty program logo, blue and white design, shown on a white background, evokes a professional and trustworthy tone" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">Akther Alinma</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.0028 SAR/point</div>
+                                </button>
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="anb" data-rate="0.01">
+                                    <img src="images/ANB.png" alt="ANB Rewards" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">ANB Rewards</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.01 SAR/point</div>
+                                </button>
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="iz" data-rate="0.0016">
+                                    <img src="images/IZ.png" alt="IZ Wallet" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">IZ Wallet</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.0016 SAR/point</div>
+                                </button>
+                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="bsf" data-rate="0.004">
+                                    <img src="images/BSF.png" alt="BSF Jana Points" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                                    <div class="text-xs font-medium">BSF Jana Points</div>
+                                    <div class="text-xs text-text-secondary ltr-content">0.004 SAR/point</div>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Points Input -->
+                        <div>
+                            <label for="points" class="block text-sm font-medium text-text-primary mb-2" data-translate="numberOfPoints">Number of Points</label>
+                            <input type="number" id="points" class="input-field w-full" data-translate="pointsPlaceholder" placeholder="Enter your points balance" min="100" />
+                        </div>
+
+                        <!-- Calculation Result -->
+                        <div id="calculation-result" class="hidden">
+                            <div class="bg-accent/10 border border-accent/20 rounded-lg p-4 text-center">
+                                <div class="text-sm text-text-secondary mb-1" data-translate="estimatedValue">Estimated Cash Value</div>
+                                <div id="cash-value" class="calculator-highlight text-2xl font-bold ltr-content">0 SAR</div>
+                                <div class="text-xs text-text-secondary mt-2" data-translate="processingNote">*Processing fee: 5% | Timeline: 3-5 business days</div>
+                            </div>
+                        </div>
+
+                        <a href="submit_request.html" class="btn-primary w-full text-center block" data-translate="convertNow">
+                            Convert My Points Now
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trusted Programs Showcase -->
+    <section class="py-16 bg-surface">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4" data-translate="supportedTitle">Supported Loyalty Programs</h2>
+                <p class="text-lg text-text-secondary max-w-2xl mx-auto" data-translate="supportedSubtitle">
+                    We partner with leading Saudi banks and telecom providers to convert your unused points into real cash
+                </p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+                <!-- Al Rajhi Bank -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/mokafa.png" alt="Al Rajhi Bank" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">Al Rajhi</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.0039 SAR/point</p>
+                </div>
+
+                <!-- Qitaf -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/qitaf.png" alt="Qitaf" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">Qitaf</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.16 SAR/point</p>
+                </div>
+
+                <!-- Akther Alinma -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/akther.png" alt="Akther Alinma" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">Akther Alinma</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.0028 SAR/point</p>
+                </div>
+
+                <!-- ANB Rewards -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/ANB.png" alt="ANB Rewards" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">ANB Rewards</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.01 SAR/point</p>
+                </div>
+
+                <!-- IZ Wallet Program -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/IZ.png" alt="IZ Wallet" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">IZ Wallet</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.0016 SAR/point</p>
+                </div>
+
+                <!-- BSF Jana Points -->
+                <div class="card text-center hover:shadow-medium transition-smooth">
+                    <img src="images/BSF.png" alt="BSF Jana Points" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
+                    <h3 class="font-cairo font-semibold text-secondary mb-1">BSF Jana Points</h3>
+                    <p class="text-sm text-accent font-medium ltr-content">0.004 SAR/point</p>
+                </div>
+            </div>
+
+            <div class="text-center mt-8">
+                <a href="program_landing_pages.html" class="btn-secondary" data-translate="viewAllPrograms">View All Programs</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works Process -->
+    <section class="py-16 bg-background">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4">Simple 3-Step Process</h2>
+                <p class="text-lg text-text-secondary max-w-2xl mx-auto">
+                    Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results.
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Step 1 -->
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
+                        <span class="text-2xl font-bold text-white">1</span>
+                    </div>
+                    <div class="card">
+                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                        </svg>
+                        <h3 class="text-xl font-cairo font-semibold text-secondary mb-3">Select Program</h3>
+                        <p class="text-text-secondary">Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates.</p>
+                    </div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
+                        <span class="text-2xl font-bold text-white">2</span>
+                    </div>
+                    <div class="card">
+                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                        </svg>
+                        <h3 class="text-xl font-cairo font-semibold text-secondary mb-3">Submit Details</h3>
+                        <p class="text-text-secondary">Provide your account information and banking details through our secure, encrypted submission form.</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
+                        <span class="text-2xl font-bold text-white">3</span>
+                    </div>
+                    <div class="card">
+                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1"/>
+                        </svg>
+                        <h3 class="text-lg font-cairo font-semibold text-secondary mb-3">
+    Receive Cash or Discount from our services
+</h3>
+
+
+                        <p class="text-text-secondary">Get your cash transfer or Discount code for our services within 2 business days maximum.</p>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-12">
-                <a href="how_it_works.html" class="btn-primary" data-translate="learnMoreProcess">Learn More About Our Process</a>
+                <a href="how_it_works.html" class="btn-primary">Learn More About Our Process</a>
             </div>
         </div>
     </section>
@@ -147,14 +325,14 @@
                         <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
                             <path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                         </svg>
-                        <span data-translate="poweredBy">Powered by RamlGroup</span>
+                        Powered by RamlGroup
                     </div>
                     
-                    <h2 class="text-3xl font-cairo font-bold text-secondary mb-6" data-translate="trustTitle">
+                    <h2 class="text-3xl font-cairo font-bold text-secondary mb-6">
                         Trusted Financial Services Since 2022
                     </h2>
                     
-                    <p class="text-lg text-text-secondary mb-6" data-translate="trustDesc">
+                    <p class="text-lg text-text-secondary mb-6">
                         RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs.
                     </p>
 
@@ -163,23 +341,23 @@
                             <svg class="w-6 h-6 text-success mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-text-primary" data-translate="highEncryption">High encryption algorithms</span>
+                            <span class="text-text-primary">High encryption algorithms</span>
                         </div>
                         <div class="flex items-center">
                             <svg class="w-6 h-6 text-success mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-text-primary" data-translate="bankGradeSecurity">Information-grade security and encryption</span>
+                            <span class="text-text-primary">Information-grade security and encryption</span>
                         </div>
                         <div class="flex items-center">
                             <svg class="w-6 h-6 text-success mr-3" fill="currentColor" viewBox="0 0 20 20">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                             </svg>
-                            <span class="text-text-primary" data-translate="support247">24/7 customer support via WhatsApp</span>
+                            <span class="text-text-primary">24/7 customer support via WhatsApp</span>
                         </div>
                     </div>
 
-                    <a href="about_raml_group.html" class="btn-secondary" data-translate="learnAboutRaml">Learn About RamlGroup</a>
+                    <a href="about_raml_group.html" class="btn-secondary">Learn About RamlGroup</a>
                 </div>
 
                 <div class="relative">
@@ -191,15 +369,15 @@
                             <div class="grid grid-cols-3 gap-4 text-center">
                                 <div>
                                     <div class="text-2xl font-bold text-secondary">50K+</div>
-                                    <div class="text-xs text-text-secondary" data-translate="pointsConverted">Points Converted</div>
+                                    <div class="text-xs text-text-secondary">Points Converted</div>
                                 </div>
                                 <div>
                                     <div class="text-2xl font-bold text-secondary">SAR 100K+</div>
-                                    <div class="text-xs text-text-secondary" data-translate="cashTransferred">Cash Transferred</div>
+                                    <div class="text-xs text-text-secondary">Cash Transferred</div>
                                 </div>
                                 <div>
                                     <div class="text-2xl font-bold text-secondary">99.8%</div>
-                                    <div class="text-xs text-text-secondary" data-translate="successRate">Success Rate</div>
+                                    <div class="text-xs text-text-secondary">Success Rate</div>
                                 </div>
                             </div>
                         </div>
@@ -213,8 +391,8 @@
     <section class="py-16 bg-background">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12">
-                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4" data-translate="helpTitle">Need Help? We're Here for You</h2>
-                <p class="text-lg text-text-secondary max-w-2xl mx-auto" data-translate="helpSubtitle">
+                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4">Need Help? We're Here for You</h2>
+                <p class="text-lg text-text-secondary max-w-2xl mx-auto">
                     Get instant support through WhatsApp or explore our comprehensive help resources
                 </p>
             </div>
@@ -227,9 +405,9 @@
                             <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.106"/>
                         </svg>
                     </div>
-                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-3" data-translate="whatsappSupport">WhatsApp Support</h3>
-                    <p class="text-text-secondary mb-4" data-translate="whatsappDesc">Get instant help and track your conversion status</p>
-                    <a href="https://wa.me/966501234567" class="btn-primary" data-translate="chatNow">Chat Now</a>
+                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-3">WhatsApp Support</h3>
+                    <p class="text-text-secondary mb-4">Get instant help and track your conversion status</p>
+                    <a href="https://wa.me/966501234567" class="btn-primary">Chat Now</a>
                 </div>
 
                 <!-- Processing Stats -->
@@ -239,22 +417,22 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
                         </svg>
                     </div>
-                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-3" data-translate="processingToday">Processing Today</h3>
+                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-3">Processing Today</h3>
                     <div class="space-y-2 mb-4">
                         <div class="text-2xl font-bold text-accent">247</div>
-                        <div class="text-sm text-text-secondary" data-translate="conversionsProgress">Conversions in progress</div>
+                        <div class="text-sm text-text-secondary">Conversions in progress</div>
                     </div>
-                    <div class="text-sm text-success font-medium" data-translate="averageCompletion">Average: 3.2 days completion</div>
+                    <div class="text-sm text-success font-medium">Average: 3.2 days completion</div>
                 </div>
 
                 <!-- Contact Form -->
                 <div class="card hover:shadow-medium transition-smooth">
-                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-4 text-center" data-translate="quickContact">Quick Contact</h3>
+                    <h3 class="text-xl font-cairo font-semibold text-secondary mb-4 text-center">Quick Contact</h3>
                     <form class="space-y-4" id="quick-contact-form">
-                        <input type="text" id="quick-name" name="name" class="input-field w-full" data-translate="yourName" placeholder="Your Name" required />
-                        <input type="email" id="quick-email" name="email" class="input-field w-full" data-translate="emailAddress" placeholder="Email Address" required />
-                        <textarea id="quick-message" name="message" rows="3" class="input-field w-full resize-none" data-translate="yourMessage" placeholder="Your Message" required></textarea>
-                        <button type="submit" class="btn-secondary w-full" data-translate="sendMessage">Send Message</button>
+                        <input type="text" id="quick-name" name="name" placeholder="Your Name" class="input-field w-full" required />
+                        <input type="email" id="quick-email" name="email" placeholder="Email Address" class="input-field w-full" required />
+                        <textarea id="quick-message" name="message" placeholder="Your Message" rows="3" class="input-field w-full resize-none" required></textarea>
+                        <button type="submit" class="btn-secondary w-full">Send Message</button>
                     </form>
                 </div>
             </div>
@@ -269,11 +447,11 @@
                 <div class="md:col-span-2">
                     <div class="flex items-center space-x-3 mb-4">
                         <div class="w-16 h-16 rounded-lg flex items-center justify-center">
-                            <img src="images/RPR.png" alt="Icon" class="w-11 h-11" />
-                        </div>
+    <img src="images/RPR.png" alt="Icon" class="w-11 h-11" />
+</div>
                         <div>
                             <h3 class="text-xl font-cairo font-bold">RamlPoints</h3>
-                            <p class="text-sm opacity-75" data-translate="companyTagline">by RamlGroup</p>
+                            <p class="text-sm opacity-75">by RamlGroup</p>
                         </div>
                     </div>
                     <p class="text-sm opacity-75 mb-4" data-translate="footer_description">
@@ -420,180 +598,24 @@ This message was sent from the RamlPoints homepage quick contact form.
             `.trim();
             
             // Create mailto link
-            const mailtoLink = `mailto:contact@ramlgroup.sa?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;calculatorSubtitle">Estimate your potential earnings in SAR</p>
-                    </div>
+            const mailtoLink = `mailto:contact@ramlgroup.sa?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            
+            // Open email client
+            window.location.href = mailtoLink;
+            
+            // Show success message
+            alert('Your email client will open with the pre-filled message. Please send the email to complete your inquiry.');
+            
+            // Reset form
+            this.reset();
+        });
+    </script>
+<script id="dhws-dataInjector" src="/public/dhws-data-injector.js"></script>
+</body>
+</html>
+    <!-- JavaScript Files -->
+    <script src="js/translations.js"></script>
+    <script src="js/calculator.js"></script>
+</body>
+</html>
 
-                    <form class="space-y-6">
-                        <!-- Program Selection -->
-                        <div>
-                            <label class="block text-sm font-medium text-text-primary mb-3" data-translate="selectProgram">Select Your Loyalty Program</label>
-                            <div class="grid grid-cols-2 gap-3">
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="alrajhi" data-rate="0.0039">
-                                    <img src="images/mokafa.png" alt="Al Rajhi Bank" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">Al Rajhi</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.0039 SAR/point</div>
-                                </button>
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="qitaf" data-rate="0.16">
-                                    <img src="images/qitaf.png" alt="Qitaf" class="w-11 h-12 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">Qitaf</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.16 SAR/point</div>
-                                </button>
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="alinma" data-rate="0.0028">
-                                    <img src="images/akther.png" alt="Akther Alinma loyalty program logo, blue and white design, shown on a white background, evokes a professional and trustworthy tone" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">Akther Alinma</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.0028 SAR/point</div>
-                                </button>
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="anb" data-rate="0.01">
-                                    <img src="images/ANB.png" alt="ANB Rewards" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">ANB Rewards</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.01 SAR/point</div>
-                                </button>
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="iz" data-rate="0.0016">
-                                    <img src="images/IZ.png" alt="IZ Wallet" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">IZ Wallet</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.0016 SAR/point</div>
-                                </button>
-                                <button type="button" class="program-btn p-4 border-2 border-border rounded-lg hover:border-accent transition-quick focus:border-accent focus:outline-none" data-program="bsf" data-rate="0.004">
-                                    <img src="images/BSF.png" alt="BSF Jana Points" class="w-8 h-8 mx-auto mb-2 rounded" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                                    <div class="text-xs font-medium">BSF Jana Points</div>
-                                    <div class="text-xs text-text-secondary ltr-content">0.004 SAR/point</div>
-                                </button>
-                            </div>
-                        </div>
-
-                        <!-- Points Input -->
-                        <div>
-                            <label for="points" class="block text-sm font-medium text-text-primary mb-2" data-translate="numberOfPoints">Number of Points</label>
-                            <input type="number" id="points" class="input-field w-full" data-translate="pointsPlaceholder" placeholder="Enter your points balance" min="100" />
-                        </div>
-
-                        <!-- Calculation Result -->
-                        <div id="calculation-result" class="hidden">
-                            <div class="bg-accent/10 border border-accent/20 rounded-lg p-4 text-center">
-                                <div class="text-sm text-text-secondary mb-1" data-translate="estimatedValue">Estimated Cash Value</div>
-                                <div id="cash-value" class="calculator-highlight text-2xl font-bold ltr-content">0 SAR</div>
-                                <div class="text-xs text-text-secondary mt-2" data-translate="processingNote">*Processing fee: 5% | Timeline: 3-5 business days</div>
-                            </div>
-                        </div>
-
-                        <a href="submit_request.html" class="btn-primary w-full text-center block" data-translate="convertNow">
-                            Convert My Points Now
-                        </a>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Trusted Programs Showcase -->
-    <section class="py-16 bg-surface">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center mb-12">
-                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4" data-translate="supportedTitle">Supported Loyalty Programs</h2>
-                <p class="text-lg text-text-secondary max-w-2xl mx-auto" data-translate="supportedSubtitle">
-                    We partner with leading Saudi banks and telecom providers to convert your unused points into real cash
-                </p>
-            </div>
-
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
-                <!-- Al Rajhi Bank -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/mokafa.png" alt="Al Rajhi Bank" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">Al Rajhi</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.0039 SAR/point</p>
-                </div>
-
-                <!-- Qitaf -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/qitaf.png" alt="Qitaf" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">Qitaf</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.16 SAR/point</p>
-                </div>
-
-                <!-- Akther Alinma -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/akther.png" alt="Akther Alinma" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">Akther Alinma</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.0028 SAR/point</p>
-                </div>
-
-                <!-- ANB Rewards -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/ANB.png" alt="ANB Rewards" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">ANB Rewards</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.01 SAR/point</p>
-                </div>
-
-                <!-- IZ Wallet Program -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/IZ.png" alt="IZ Wallet" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">IZ Wallet</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.0016 SAR/point</p>
-                </div>
-
-                <!-- BSF Jana Points -->
-                <div class="card text-center hover:shadow-medium transition-smooth">
-                    <img src="images/BSF.png" alt="BSF Jana Points" class="w-16 h-16 mx-auto mb-3 rounded-lg object-cover" onerror="this.src='https://images.unsplash.com/photo-1584824486509-112e4181ff6b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'; this.onerror=null;" />
-                    <h3 class="font-cairo font-semibold text-secondary mb-1">BSF Jana Points</h3>
-                    <p class="text-sm text-accent font-medium ltr-content">0.004 SAR/point</p>
-                </div>
-            </div>
-
-            <div class="text-center mt-8">
-                <a href="program_landing_pages.html" class="btn-secondary" data-translate="viewAllPrograms">View All Programs</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- How It Works Process -->
-    <section class="py-16 bg-background">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center mb-12">
-                <h2 class="text-3xl font-cairo font-bold text-secondary mb-4" data-translate="processTitle">Simple 3-Step Process</h2>
-                <p class="text-lg text-text-secondary max-w-2xl mx-auto" data-translate="processSubtitle">
-                    Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results.
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-3 gap-8">
-                <!-- Step 1 -->
-                <div class="text-center">
-                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
-                        <span class="text-2xl font-bold text-white">1</span>
-                    </div>
-                    <div class="card">
-                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
-                        </svg>
-                        <h3 class="text-xl font-cairo font-semibold text-secondary mb-3" data-translate="step1Title">Select Program</h3>
-                        <p class="text-text-secondary" data-translate="step1Desc">Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates.</p>
-                    </div>
-                </div>
-
-                <!-- Step 2 -->
-                <div class="text-center">
-                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
-                        <span class="text-2xl font-bold text-white">2</span>
-                    </div>
-                    <div class="card">
-                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
-                        </svg>
-                        <h3 class="text-xl font-cairo font-semibold text-secondary mb-3" data-translate="step2Title">Submit Details</h3>
-                        <p class="text-text-secondary" data-translate="step2Desc">Provide your account information and banking details through our secure, encrypted submission form.</p>
-                    </div>
-                </div>
-
-                <!-- Step 3 -->
-                <div class="text-center">
-                    <div class="w-16 h-16 bg-accent rounded-full flex items-center justify-center mx-auto mb-6">
-                        <span class="text-2xl font-bold text-white">3</span>
-                    </div>
-                    <div class="card">
-                        <svg class="w-12 h-12 text-accent mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1"/>
-                        </svg>
-                        <h3 class="text-lg font-cairo font-semibold text-secondary mb-3" data-translate="step3Title">
-                            Receive Cash or Discount from our services
-                        </h3>
-                        <p class="text-text-secondary" data-translate="
