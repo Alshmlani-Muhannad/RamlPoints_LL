@@ -12,7 +12,7 @@ const translations = {
         // Homepage Hero Section
         trustedBy: "Trusted by RamlGroup",
         heroTitle: "Transform Your<br />Unused Loyalty Points<br />Into Real Cash",
-        heroSubtitle: "Convert your banking and wallet rewards into instant cash transfers. Simple, secure, and transparent - backed by RamlGroup's trusted financial services.",
+        heroSubtitle: "Convert your banking and wallet rewards into instant cash transfers or Huge Discount from our websites. Simple, secure, and transparent - backed by RamlGroup's trusted financial services.",
         startConverting: "Start Converting Now",
         learnHow: "Learn How It Works",
         secureEncrypted: "Secure & Encrypted",
@@ -34,26 +34,26 @@ const translations = {
         viewAllPrograms: "View All Programs",
         
         // Process Section
-        processTitle: "ثلاث خطوات تحويل بسيطه",
+        processTitle: "Simple 3-Step Process",
         processSubtitle: "Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results.",
         step1Title: "Select Program",
         step1Desc: "Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates.",
-        step2Title: "Submit Details",
+        step2Title: "Submit Details", 
         step2Desc: "Provide your account information and banking details through our secure, encrypted submission form.",
-        step3Title: "Receive Cash",
-        step3Desc: "Get your cash transfer within 3-5 business days. Track your conversion status via WhatsApp updates.",
+        step3Title: "Receive Cash or Discount from our services",
+        step3Desc: "Get your cash transfer or Discount code for our services within 2 business days maximum.",
         learnMoreProcess: "Learn More About Our Process",
         
         // RamlGroup Section
         poweredBy: "Powered by RamlGroup",
-        trustTitle: "Trusted Financial Services Since 2018",
-        trustDesc: "RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their financial needs.",
-        regulatedProvider: "Regulated financial service provider",
-        bankGradeSecurity: "Bank-grade security and encryption",
+        trustTitle: "Trusted Financial Services Since 2022",
+        trustDesc: "RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs.",
+        highEncryption: "High encryption algorithms",
+        bankGradeSecurity: "Information-grade security and encryption",
         support247: "24/7 customer support via WhatsApp",
         learnAboutRaml: "Learn About RamlGroup",
         pointsConverted: "Points Converted",
-        cashTransferred: "Cash Transferred",
+        cashTransferred: "Cash Transferred", 
         successRate: "Success Rate",
         
         // Help Section
@@ -67,42 +67,39 @@ const translations = {
         averageCompletion: "Average: 3.2 days completion",
         quickContact: "Quick Contact",
         yourName: "Your Name",
-        emailAddress: "Email Address",
+        emailAddress: "Email Address", 
         yourMessage: "Your Message",
         sendMessage: "Send Message",
         
         // Footer
-        footerDesc: "Transform your unused loyalty points into real cash transfers. Trusted, secure, and transparent.",
-        quickLinks: "Quick Links",
-        support: "Support",
+        footer_description: "Convert your unused loyalty points into real cash with Saudi Arabia's most trusted points conversion platform.",
+        quick_links: "Quick Links",
+        nav_home: "Home",
+        nav_programs: "Programs", 
+        nav_how_it_works: "How It Works",
+        nav_faq: "FAQ",
+        nav_submit_request: "Submit Request",
+        nav_about: "About RamlGroup",
+        nav_contact: "Contact Us",
         legal: "Legal",
-        contactUs: "Contact Us",
-        faq: "FAQ",
-        processingStatus: "Processing Status",
-        helpCenter: "Help Center",
-        termsOfService: "Terms of Service",
-        privacyPolicy: "Privacy Policy",
-        regulatoryCompliance: "Regulatory Compliance",
-        security: "Security",
-        submitRequest: "Submit Request",
-        aboutRamlGroup: "About RamlGroup",
-        footerCopyright: "© 2025 RamlPoints by RamlGroup. All Rights Reserved. | Licensed Financial Service Provider"
+        terms_privacy: "Terms & Privacy",
+        copyright: "© 2025 RamlGroup. All rights reserved. | Powered by innovative technology solutions."
     },
     ar: {
-        // Navigation
+        // Navigation  
         home: "الرئيسية",
         programs: "البرامج",
         howItWorks: "كيف يعمل",
         about: "حول",
-        contact: "اتصل بنا",
+        contact: "اتصل بنا", 
         languageBtn: "English",
         
         // Homepage Hero Section
         trustedBy: "موثوق من قبل مجموعة رامل",
-        heroTitle: "حول نقاط الولاء<br />غير المستخدمة<br />إلى نقد حقيقي",
-        heroSubtitle: "حول مكافآت البنوك والمحافظ الإلكترونية إلى تحويلات نقدية فورية. بسيط وآمن وشفاف - مدعوم من الخدمات المالية الموثوقة لمجموعة رامل.",
+        heroTitle: "حول نقاط الولاء<br />غير المستخدمة<br />إلى نقد حقيقي", 
+        heroSubtitle: "حول مكافآت البنوك والمحافظ الإلكترونية إلى تحويلات نقدية فورية أو خصم هائل من مواقعنا الإلكترونية. بسيط وآمن وشفاف - مدعوم من الخدمات المالية الموثوقة لمجموعة رامل.",
         startConverting: "ابدأ التحويل الآن",
-        learnHow: "تعلم كيف يعمل",
+        learnHow: "تعلم كيف يعمل", 
         secureEncrypted: "آمن ومشفر",
         regulatedService: "خدمة منظمة",
         
@@ -113,7 +110,7 @@ const translations = {
         numberOfPoints: "عدد النقاط",
         pointsPlaceholder: "أدخل رصيد النقاط الخاص بك",
         convertNow: "حول نقاطي الآن",
-        estimatedValue: "القيمة النقدية المقدرة",
+        estimatedValue: "القيمة النقدية المقدرة", 
         processingNote: "*رسوم المعالجة: 5% | الإطار الزمني: 3-5 أيام عمل",
         
         // Supported Programs Section
@@ -128,17 +125,17 @@ const translations = {
         step1Desc: "اختر برنامج الولاء الخاص بك وأدخل رصيد النقاط. تُظهر حاسبتنا تقديرات نقدية فورية.",
         step2Title: "أرسل التفاصيل",
         step2Desc: "قدم معلومات حسابك والتفاصيل المصرفية من خلال نموذج الإرسال الآمن والمشفر.",
-        step3Title: "استلم النقد",
-        step3Desc: "احصل على تحويلك النقدي خلال 3-5 أيام عمل. تتبع حالة التحويل عبر تحديثات واتساب.",
+        step3Title: "استلم النقد أو خصم من خدماتنا",
+        step3Desc: "احصل على تحويلك النقدي أو كود الخصم لخدماتنا خلال يومي عمل كحد أقصى.",
         learnMoreProcess: "تعلم المزيد حول عمليتنا",
         
         // RamlGroup Section
         poweredBy: "مدعوم من مجموعة رامل",
-        trustTitle: "خدمات مالية موثوقة منذ 2018",
-        trustDesc: "رامل بوينتس جزء من نظام مجموعة رامل، يجلب لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لاحتياجاتهم المالية.",
-        regulatedProvider: "مقدم خدمات مالية منظم",
-        bankGradeSecurity: "أمان وتشفير بمستوى البنوك",
-        support247: "دعم العملاء على مدار الساعة عبر واتساب",
+        trustTitle: "خدمات مالية موثوقة منذ 2022",
+        trustDesc: "رامل بوينتس جزء من نظام مجموعة رامل، يجلب لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لاحتياجاتهم التقنية.",
+        highEncryption: "خوارزميات تشفير عالية",
+        bankGradeSecurity: "أمان وتشفير بدرجة المعلومات",
+        support247: "دعم العملاء على مدار الساعة عبر واتساب", 
         learnAboutRaml: "تعلم حول مجموعة رامل",
         pointsConverted: "النقاط المحولة",
         cashTransferred: "النقد المحول",
@@ -151,7 +148,7 @@ const translations = {
         whatsappDesc: "احصل على مساعدة فورية وتتبع حالة التحويل",
         chatNow: "تحدث الآن",
         processingToday: "المعالجة اليوم",
-        conversionsProgress: "التحويلات قيد التقدم",
+        conversionsProgress: "التحويلات قيد التقدم", 
         averageCompletion: "المتوسط: 3.2 أيام للإكمال",
         quickContact: "اتصال سريع",
         yourName: "اسمك",
@@ -160,21 +157,18 @@ const translations = {
         sendMessage: "إرسال الرسالة",
         
         // Footer
-        footerDesc: "حول نقاط الولاء غير المستخدمة إلى تحويلات نقدية حقيقية. موثوق وآمن وشفاف.",
-        quickLinks: "روابط سريعة",
-        support: "الدعم",
+        footer_description: "حول نقاط الولاء غير المستخدمة إلى نقد حقيقي مع منصة تحويل النقاط الأكثر موثوقية في المملكة العربية السعودية.",
+        quick_links: "روابط سريعة",
+        nav_home: "الرئيسية",
+        nav_programs: "البرامج",
+        nav_how_it_works: "كيف يعمل",
+        nav_faq: "الأسئلة الشائعة", 
+        nav_submit_request: "إرسال طلب",
+        nav_about: "حول مجموعة رامل",
+        nav_contact: "اتصل بنا",
         legal: "قانوني",
-        contactUs: "اتصل بنا",
-        faq: "الأسئلة الشائعة",
-        processingStatus: "حالة المعالجة",
-        helpCenter: "مركز المساعدة",
-        termsOfService: "شروط الخدمة",
-        privacyPolicy: "سياسة الخصوصية",
-        regulatoryCompliance: "الامتثال التنظيمي",
-        security: "الأمان",
-        submitRequest: "إرسال طلب",
-        aboutRamlGroup: "حول مجموعة رامل",
-        footerCopyright: "© 2025 رامل بوينتس من مجموعة رامل. جميع الحقوق محفوظة. | مقدم خدمات مالية مرخص"
+        terms_privacy: "الشروط والخصوصية",
+        copyright: "© 2025 مجموعة رامل. جميع الحقوق محفوظة. | مدعوم بحلول التكنولوجيا المبتكرة."
     }
 };
 
@@ -245,4 +239,3 @@ document.addEventListener('DOMContentLoaded', function() {
         button.addEventListener('click', toggleLanguage);
     });
 });
-
