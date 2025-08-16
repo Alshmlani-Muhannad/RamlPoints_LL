@@ -34,7 +34,7 @@ const translations = {
         viewAllPrograms: "View All Programs",
         
         // Process Section
-        processTitle: "Simple 3-Step Process",
+        processTitle: "ثلاث خطوات تحويل بسيطه",
         processSubtitle: "Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results.",
         step1Title: "Select Program",
         step1Desc: "Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates.",
