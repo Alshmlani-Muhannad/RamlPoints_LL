@@ -116,7 +116,9 @@ const translations = {
         SelectProg: "Select Program",
         Choose_your_loy:"Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates",
         Submit_deatils:"Submit Details",
-        Provide_your_Acc:"Provide your account information and banking details through our secure, encrypted submission form."
+        Provide_your_Acc:"Provide your account information and banking details through our secure, encrypted submission form.",
+        Receive_cash_or:"Receive Cash or Discount from our services",
+        Get_your_cash:"Get a cash amount that we will transfer to your account within two days or a discount code for one of our services directly"
 
 
 
@@ -240,7 +242,9 @@ const translations = {
         SelectProg: "اختر البرنامج",
         Choose_your_loy:"اختر برنامج الولاء الخاص بك وأدخل رصيد نقاطك. حاسبتنا تُظهر تقديرات نقدية فورية.",
         Submit_deatils:"إرسال الطلب",
-        Provide_your_Acc:"قم بتقديم معلومات حسابك وتفاصيلك المصرفية من خلال نموذج الإرسال الآمن والمشفر الخاص بنا."
+        Provide_your_Acc:"قم بتقديم معلومات حسابك وتفاصيلك المصرفية من خلال نموذج الإرسال الآمن والمشفر الخاص بنا.",
+        Receive_cash_or:"احصل على الكاش او خصم قوي لوحدة من خدماتنا",
+        Get_your_cash:"احصل على مبلغ نقدي نقوم بتحويله لحسابك خلاال يومين أو كود خصم لوحدة من خدماتنا بشكل مباشر"
 
 
 
