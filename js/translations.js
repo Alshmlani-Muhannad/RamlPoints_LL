@@ -104,7 +104,9 @@ const translations = {
         ramlJobTitle: "RamlJob",
         ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you.",
         ramltecTitle:"RamlTec",
-        ramltecDesc:"Comprehensive technology solutions for both individuals and businesses. We support organizations in enhancing their products and services through tailored or ready-made solutions."
+        ramltecDesc:"Comprehensive technology solutions for both individuals and businesses. We support organizations in enhancing their products and services through tailored or ready-made solutions.",
+        inDevelopment:"In Development"
+
 
 
 
@@ -214,7 +216,8 @@ const translations = {
         ramlJobTitle: "وظيفة الرمل",
         ramlJobDesc: "منصة SaaS تمكنك من رفع سيرتك الذاتية، وبعدها سيتعرف عليك نظامنا وسنكون قادرين على ربط حسابك على LinkedIn والتقدم للوظائف تلقائيًا بدلاً منك.",
         ramltecTitle:"رمل تكنولوجي",
-        ramltecDesc:"حلول تقنية شاملة للأفراد والشركات. ندعم المؤسسات في تحسين منتجاتها وخدماتها من خلال حلول مصممة خصيصًا أو جاهزة."
+        ramltecDesc:"حلول تقنية شاملة للأفراد والشركات. ندعم المؤسسات في تحسين منتجاتها وخدماتها من خلال حلول مصممة خصيصًا أو جاهزة.",
+        inDevelopment:"قيد التطوير"
 
 
 
