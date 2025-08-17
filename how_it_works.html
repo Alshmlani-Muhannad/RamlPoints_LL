@@ -1149,72 +1149,22 @@
         </div>
     </footer>
     <!-- JavaScript Files -->
-<script src="js/translations.js"></script>
-<script>
-    // Mobile menu toggle
-    document.getElementById('mobile-menu-btn').addEventListener('click', function() {
-        const mobileMenu = document.getElementById('mobile-menu');
-        mobileMenu.classList.toggle('hidden');
-    });
-
-    // Close mobile menu when clicking on menu items
-    document.querySelectorAll('#mobile-menu a').forEach(link => {
-        link.addEventListener('click', function() {
+    <script src="js/translations.js"></script>
+    <script>
+        // Mobile menu toggle
+        document.getElementById('mobile-menu-btn').addEventListener('click', function() {
             const mobileMenu = document.getElementById('mobile-menu');
-            mobileMenu.classList.add('hidden');
+            mobileMenu.classList.toggle('hidden');
         });
-    });
 
-    // Program tab functionality
-    const programTabBtns = document.querySelectorAll('.program-tab-btn');
-    const programContents = document.querySelectorAll('.program-content');
-
-    programTabBtns.forEach(btn => {
-        btn.addEventListener('click', function() {
-            const program = this.dataset.program;
-            
-            // Remove active state from all buttons
-            programTabBtns.forEach(b => {
-                b.classList.remove('active', 'bg-accent', 'text-white');
-                b.classList.add('bg-border', 'text-text-secondary');
+        // Close mobile menu when clicking on menu items
+        document.querySelectorAll('#mobile-menu a').forEach(link => {
+            link.addEventListener('click', function() {
+                const mobileMenu = document.getElementById('mobile-menu');
+                mobileMenu.classList.add('hidden');
             });
-            
-            // Add active state to clicked button
-            this.classList.add('active', 'bg-accent', 'text-white');
-            this.classList.remove('bg-border', 'text-text-secondary');
-            
-            // Hide all content
-            programContents.forEach(content => {
-                content.classList.add('hidden');
-            });
-            
-            // Show selected content
-            document.getElementById(program + '-content').classList.remove('hidden');
         });
-    });
-
-    // FAQ functionality
-    const faqQuestions = document.querySelectorAll('.faq-question');
-    
-    faqQuestions.forEach(question => {
-        question.addEventListener('click', function() {
-            const targetId = this.dataset.target;
-            const answer = document.getElementById(targetId);
-            const icon = this.querySelector('svg');
-            
-            // Toggle answer visibility
-            answer.classList.toggle('hidden');
-            
-            // Rotate icon
-            if (answer.classList.contains('hidden')) {
-                icon.style.transform = 'rotate(0deg)';
-            } else {
-                icon.style.transform = 'rotate(180deg)';
-            }
-        });
-    });
-</script>
-<script id="dhws-dataInjector" src="/public/dhws-data-injector.js"></script>
+    </script>
     
 
 </body>
