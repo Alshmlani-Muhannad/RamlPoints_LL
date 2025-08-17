@@ -84,9 +84,6 @@ const translations = {
         legal: "Legal",
         terms_privacy: "Terms & Privacy",
         copyright: "© 2025 RamlGroup. All rights reserved. | Powered by innovative technology solutions."
-
-         // About_raml_group.html
-         servicesTitle: "RamlGroup Services Ecosystem"
     },
     ar: {
         // Navigation  
@@ -172,9 +169,6 @@ const translations = {
         legal: "قانوني",
         terms_privacy: "الشروط والخصوصية",
         copyright: "© 2025 مجموعة رامل. جميع الحقوق محفوظة. | مدعوم بحلول التكنولوجيا المبتكرة."
-
-        // About_raml_group.html
-        servicesTitle: "خدمات رمل قروب"
     }
 };
 
