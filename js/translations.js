@@ -102,7 +102,8 @@ const translations = {
         RamlmarketingTitle: "Raml Marketing",
         RamlmarketingDesc: "Simple and innovative marketing solutions that seamlessly connect you with social media platforms and advertising professionals.",
         ramlJobTitle: "RamlJob",
-        ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you."
+        ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you.",
+        ramltecTitle:"RamlTec"
 
 
 
