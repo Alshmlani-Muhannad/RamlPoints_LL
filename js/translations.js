@@ -122,7 +122,9 @@ const translations = {
         Learn_more_about: "Learn More About Our Process",
         Powered_by_RamlGroup:"Powered by RamlGroup",
         Trusted_Financial_Services:"Trusted Financial Services Since 2022",
-        RamlPoints_is_prt:"RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs."
+        RamlPoints_is_prt:"RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs.",
+        High_encryption_algo:"High encryption algorithms",
+        Information_grade_Sec:"Information-grade security and encryption"
 
 
 
@@ -251,7 +253,9 @@ const translations = {
         Learn_more_about: "تعرف على المزيد حول انشاء العملية",
         Powered_by_RamlGroup: "مدعوم من RamlGroup",
         Trusted_Financial_Services:"خدمات مالية موثوقة منذ عام 2022",
-        RamlPoints_is_prt:"رمل بوينتس هو جزء من منظومة رمل قروب مما يوفر لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لتلبية احتياجاتهم التكنولوجية"
+        RamlPoints_is_prt:"رمل بوينتس هو جزء من منظومة رمل قروب مما يوفر لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لتلبية احتياجاتهم التكنولوجية",
+        High_encryption_algo:"خوارزميات التشفير العالية",
+        Information_grade_Sec:"الأمن والتشفير على مستوى المعلومات الشخصية"
 
 
 
