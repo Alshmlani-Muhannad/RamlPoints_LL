@@ -120,8 +120,9 @@ const translations = {
         Receive_cash_or:"Receive Cash or Discount from our services",
         Get_your_cash:"Get a cash amount that we will transfer to your account within two days or a discount code for one of our services directly",
         Learn_more_about: "Learn More About Our Process",
-        Powered_by_RamlGroup:"Powered by RamlGroup"
-
+        Powered_by_RamlGroup:"Powered by RamlGroup",
+        Trusted_Financial_Services:"Trusted Financial Services Since 2022",
+        RamlPoints_is_prt:"RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs."
 
 
 
@@ -248,7 +249,9 @@ const translations = {
         Receive_cash_or:"احصل على الكاش او خصم قوي لوحدة من خدماتنا",
         Get_your_cash:"احصل على مبلغ نقدي نقوم بتحويله لحسابك خلاال يومين أو كود خصم لوحدة من خدماتنا بشكل مباشر",
         Learn_more_about: "تعرف على المزيد حول انشاء العملية",
-        Powered_by_RamlGroup: "مدعوم من RamlGroup"
+        Powered_by_RamlGroup: "مدعوم من RamlGroup",
+        Trusted_Financial_Services:"خدمات مالية موثوقة منذ عام 2022",
+        RamlPoints_is_prt:"رمل بوينتس هو جزء من منظومة رمل قروب مما يوفر لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لتلبية احتياجاتهم التكنولوجية"
 
 
 
