@@ -89,7 +89,6 @@ const translations = {
         servicesTitle: "RamlGroup Services Ecosystem",
         servicesSubtitle: "Comprehensive technology solutions designed to empower businesses and individuals across Saudi Arabia",
         aboutBadge: "Leadership in Technology",
-        aboutTitle:  "About Raml Group Leadership in Technology",
         aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions."
 
     },
