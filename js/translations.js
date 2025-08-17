@@ -112,7 +112,10 @@ const translations = {
 
         //index.html
         Simple_3step:"Simple 3-Step Process",
-        Converting_your_loyalty:"Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results."
+        Converting_your_loyalty:"Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results.",
+        SelectProg: "Select Program",
+        Choose_your_loy:"Choose your loyalty program and enter your points balance. Our calculator shows instant cash estimates"
+
 
 
 
@@ -231,7 +234,9 @@ const translations = {
 
         //index.html
         Simple_3step:"ثلاث خطوات بسيطه",
-        Converting_your_loyalty:"لم يكن تحويل نقاط الولاء أسهل من أي وقت مضى. اتبع إجراءاتنا الشفافة لضمان نتائج مضمونة."
+        Converting_your_loyalty:"لم يكن تحويل نقاط الولاء أسهل من أي وقت مضى. اتبع إجراءاتنا الشفافة لضمان نتائج مضمونة.",
+        SelectProg: "اختر البرنامج",
+        Choose_your_loy:"اختر برنامج الولاء الخاص بك وأدخل رصيد نقاطك. حاسبتنا تُظهر تقديرات نقدية فورية."
 
 
 
