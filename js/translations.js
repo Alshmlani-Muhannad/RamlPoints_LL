@@ -169,7 +169,7 @@ const translations = {
         legal: "قانوني",
         terms_privacy: "الشروط والخصوصية",
         copyright: "© 2025 مجموعة رامل. جميع الحقوق محفوظة. | مدعوم بحلول التكنولوجيا المبتكرة."
-    }
+    },
 };
 
 // Current language state
