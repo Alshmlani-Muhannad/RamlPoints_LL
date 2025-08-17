@@ -88,6 +88,7 @@ const translations = {
         //about_raml_group.html
         servicesTitle: "RamlGroup Services Ecosystem",
         servicesSubtitle: "Comprehensive technology solutions designed to empower businesses and individuals across Saudi Arabia",
+        aboutBadge: "Leadership in Technology",
         aboutTitle:  "About Raml Group Leadership in Technology",
         aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions."
 
@@ -180,6 +181,7 @@ const translations = {
         //about_raml_group.html
         servicesTitle: "خدمات رمل قروب ",
         servicesSubtitle: "حلول تقنية شاملة مصممة لتمكين الشركات والأفراد في جميع أنحاء المملكة العربية السعودية",
+        aboutBadge: "القيادة في التكنولوجيا",
         aboutTitle:  "عن رمل قروب, قيادة في التكنلوجيا",
         aboutSubtitle: "منذ عام 2020، كانت مجموعة رامل في طليعة الابتكار التكنولوجي في المملكة العربية السعودية، مما مكّن السوق من اكتشاف خدمات جديدة من خلال حلول آمنة وشفافة ومبتكرة."
 
