@@ -95,7 +95,8 @@ const translations = {
         ramlPayDesc: "Advanced payment processing solutions for businesses. Secure, fast, and reliable payment gateway services",
         comingSoon: "Coming Soon 2027",
         ramlBoxTitle: "RamlBox",
-        ramlBoxDesc: "A digital products platform offering more than 200 products and the number is still growing. Comprehensive digital solutions for businesses"
+        ramlBoxDesc: "A digital products platform offering more than 200 products and the number is still growing. Comprehensive digital solutions for businesses",
+        activeService: "Active Service"
 
     },
     ar: {
@@ -193,7 +194,9 @@ const translations = {
         ramlPayDesc: "حلول متقدمة لمعالجة المدفوعات للشركات. خدمات بوابة دفع آمنة وسريعة وموثوقة",
         comingSoon: "قريبًا 2027",
         ramlBoxTitle: "رمل بوكس",
-        ramlBoxDesc: "منصة منتجات رقمية تقدم أكثر من 200 منتج، والعدد في ازدياد مستمر. حلول رقمية شاملة للشركات."
+        ramlBoxDesc: "منصة منتجات رقمية تقدم أكثر من 200 منتج، والعدد في ازدياد مستمر. حلول رقمية شاملة للشركات.",
+        activeService: "خدمة نشطة"
+
     },
 };
 
