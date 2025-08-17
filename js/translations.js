@@ -86,7 +86,8 @@ const translations = {
         copyright: "© 2025 RamlGroup. All rights reserved. | Powered by innovative technology solutions.",
 
         //about_raml_group.html
-        servicesTitle: "RamlGroup Services Ecosystem"
+        servicesTitle: "RamlGroup Services Ecosystem",
+        servicesSubtitle: "Comprehensive technology solutions designed to empower businesses and individuals across Saudi Arabia"
     },
     ar: {
         // Navigation  
@@ -174,7 +175,9 @@ const translations = {
         copyright: "© 2025 مجموعة رامل. جميع الحقوق محفوظة. | مدعوم بحلول التكنولوجيا المبتكرة.",
         
         //about_raml_group.html
-        servicesTitle: "خدمات رمل قروب "
+        servicesTitle: "خدمات رمل قروب ",
+        servicesSubtitle: "حلول تقنية شاملة مصممة لتمكين الشركات والأفراد في جميع أنحاء المملكة العربية السعودية"
+
     },
 };
 
