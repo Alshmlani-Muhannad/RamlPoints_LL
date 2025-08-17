@@ -96,7 +96,12 @@ const translations = {
         comingSoon: "Coming Soon 2027",
         ramlBoxTitle: "RamlBox",
         ramlBoxDesc: "A digital products platform offering more than 200 products and the number is still growing. Comprehensive digital solutions for businesses",
-        activeService: "Active Service"
+        activeService: "Active Service",
+        ramlPointsTitle: "RamlPoints",
+        ramlPointsDesc: "Convert unused loyalty points into real cash transfers. Our flagship service helping thousands recover value from dormant rewards.",
+        RamlmarketingTitle: "Raml Marketing"
+
+
 
     },
     ar: {
@@ -195,7 +200,11 @@ const translations = {
         comingSoon: "قريبًا 2027",
         ramlBoxTitle: "رمل بوكس",
         ramlBoxDesc: "منصة منتجات رقمية تقدم أكثر من 200 منتج، والعدد في ازدياد مستمر. حلول رقمية شاملة للشركات.",
-        activeService: "خدمة نشطة"
+        activeService: "خدمة نشطة",
+        ramlPointsTitle: "رمل بوينتس",
+        ramlPointsDesc: "حوّل نقاط الولاء غير المستخدمة إلى تحويلات نقدية حقيقية. خدمتنا الرائدة تُساعد الآلاف على استعادة قيمة مكافآتهم الراكدة.",
+        RamlmarketingTitle: "رمل للتسويق"
+
 
     },
 };
