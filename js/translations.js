@@ -102,7 +102,9 @@ const translations = {
         RamlmarketingTitle: "Raml Marketing",
         RamlmarketingDesc: "Simple and innovative marketing solutions that seamlessly connect you with social media platforms and advertising professionals.",
         ramlJobTitle: "RamlJob",
-        ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you."
+        ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you.",
+        RamlTecTitle:"RamlTec",
+        RamlTecDesc:"Comprehensive technology solutions for both individuals and businesses. We support organizations in enhancing their products and services through tailored or ready-made solutions."
 
 
 
@@ -210,7 +212,9 @@ const translations = {
         RamlmarketingTitle: "رمل للتسويق",
         RamlmarketingDesc: "حلول تسويقية بسيطة ومبتكرة تربطك بسلاسة بمنصات التواصل الاجتماعي ومحترفي الإعلان.",
         ramlJobTitle: "وظيفة الرمل",
-        ramlJobDesc: "منصة SaaS تمكنك من رفع سيرتك الذاتية، وبعدها سيتعرف عليك نظامنا وسنكون قادرين على ربط حسابك على LinkedIn والتقدم للوظائف تلقائيًا بدلاً منك."
+        ramlJobDesc: "منصة SaaS تمكنك من رفع سيرتك الذاتية، وبعدها سيتعرف عليك نظامنا وسنكون قادرين على ربط حسابك على LinkedIn والتقدم للوظائف تلقائيًا بدلاً منك.",
+        RamlTecTitle:"رمل تكنولوجي."
+        RamlTecDesc:"حلول تقنية شاملة للأفراد والشركات. ندعم المؤسسات في تحسين منتجاتها وخدماتها من خلال حلول مصممة خصيصًا أو جاهزة."
 
 
     },
