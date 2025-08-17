@@ -92,7 +92,7 @@ const translations = {
         aboutTitle: 'About <span class="text-accent">RamlGroup</span><br />Leadership in Technology',
         aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions.",
         ramlPayTitle: "RamlPay",
-        ramlPayDesc "Advanced payment processing solutions for businesses. Secure, fast, and reliable payment gateway services"
+        ramlPayDesc: "Advanced payment processing solutions for businesses. Secure, fast, and reliable payment gateway services"
 
     },
     ar: {
@@ -187,7 +187,7 @@ const translations = {
         aboutTitle: 'عن <span class="text-accent">رمل قروب</span><br />قيادة في التكنولوجيا',
         aboutSubtitle: "منذ عام 2020، كانت مجموعة رامل في طليعة الابتكار التكنولوجي في المملكة العربية السعودية، مما مكّن السوق من اكتشاف خدمات جديدة من خلال حلول آمنة وشفافة ومبتكرة.",
         ramlPayTitle: "رمل باي",
-        ramlPayDesc "حلول متقدمة لمعالجة المدفوعات للشركات. خدمات بوابة دفع آمنة وسريعة وموثوقة"
+        ramlPayDesc: "حلول متقدمة لمعالجة المدفوعات للشركات. خدمات بوابة دفع آمنة وسريعة وموثوقة"
 
     },
 };
