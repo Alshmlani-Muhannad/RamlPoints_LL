@@ -90,7 +90,8 @@ const translations = {
         servicesSubtitle: "Comprehensive technology solutions designed to empower businesses and individuals across Saudi Arabia",
         aboutBadge: "Leadership in Technology",
         aboutTitle: 'About <span class="text-accent">RamlGroup</span><br />Leadership in Technology',
-        aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions."
+        aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions.",
+        ramlPayTitle: "RamlPay"
 
     },
     ar: {
@@ -183,7 +184,8 @@ const translations = {
         servicesSubtitle: "حلول تقنية شاملة مصممة لتمكين الشركات والأفراد في جميع أنحاء المملكة العربية السعودية",
         aboutBadge: "القيادة في التكنولوجيا",
         aboutTitle: 'عن <span class="text-accent">رمل قروب</span><br />قيادة في التكنولوجيا',
-        aboutSubtitle: "منذ عام 2020، كانت مجموعة رامل في طليعة الابتكار التكنولوجي في المملكة العربية السعودية، مما مكّن السوق من اكتشاف خدمات جديدة من خلال حلول آمنة وشفافة ومبتكرة."
+        aboutSubtitle: "منذ عام 2020، كانت مجموعة رامل في طليعة الابتكار التكنولوجي في المملكة العربية السعودية، مما مكّن السوق من اكتشاف خدمات جديدة من خلال حلول آمنة وشفافة ومبتكرة.",
+        ramlPayTitle: "رمل باي"
 
     },
 };
