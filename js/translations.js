@@ -103,7 +103,7 @@ const translations = {
         RamlmarketingDesc: "Simple and innovative marketing solutions that seamlessly connect you with social media platforms and advertising professionals.",
         ramlJobTitle: "RamlJob",
         ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you.",
-        ramltecTitle:"RamlTec",
+        ramltecTitle:"RamlTech",
         ramltecDesc:"Comprehensive technology solutions for both individuals and businesses. We support organizations in enhancing their products and services through tailored or ready-made solutions.",
         inDevelopment:"In Development"
 
