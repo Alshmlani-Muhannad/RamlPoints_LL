@@ -125,7 +125,8 @@ const translations = {
         RamlPoints_is_prt:"RamlPoints is part of the RamlGroup ecosystem, bringing you the same reliability and security that thousands of Saudi customers trust for their technology needs.",
         High_encryption_algo:"High encryption algorithms",
         Information_grade_Sec:"Information-grade security and encryption",
-        customer_support_via:"24/7 customer support via WhatsApp"
+        customer_support_via:"24/7 customer support via WhatsApp",
+        Learn_About_RamlGroup:"Learn About RamlGroup"
 
 
 
@@ -257,9 +258,8 @@ const translations = {
         RamlPoints_is_prt:"رمل بوينتس هو جزء من منظومة رمل قروب مما يوفر لك نفس الموثوقية والأمان الذي يثق به آلاف العملاء السعوديين لتلبية احتياجاتهم التكنولوجية",
         High_encryption_algo:"خوارزميات التشفير العالية",
         Information_grade_Sec:"الأمن والتشفير على مستوى المعلومات الشخصية",
-        customer_support_via:"دعم العملاء على مدار الساعة طوال أيام الأسبوع عبر WhatsApp"
-
-
+        customer_support_via:"دعم العملاء على مدار الساعة طوال أيام الأسبوع عبر WhatsApp",
+        Learn_About_RamlGroup:"تعرف على رمل قروب"
 
 
     },
