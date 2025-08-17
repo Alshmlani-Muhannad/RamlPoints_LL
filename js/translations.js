@@ -99,7 +99,11 @@ const translations = {
         activeService: "Active Service",
         ramlPointsTitle: "RamlPoints",
         ramlPointsDesc: "Convert unused loyalty points into real cash transfers. Our flagship service helping thousands recover value from dormant rewards.",
-        RamlmarketingTitle: "Raml Marketing"
+        RamlmarketingTitle: "Raml Marketing",
+        RamlmarketingDesc: "Simple and innovative marketing solutions that seamlessly connect you with social media platforms and advertising professionals.",
+        ramlJobTitle: "RamlJob",
+        ramlJobDesc: "A SaaS platform that enables you to upload your CV, after which our system will recognize you and we will be able to link your LinkedIn and apply for jobs automatically instead of you."
+
 
 
 
@@ -203,7 +207,10 @@ const translations = {
         activeService: "خدمة نشطة",
         ramlPointsTitle: "رمل بوينتس",
         ramlPointsDesc: "حوّل نقاط الولاء غير المستخدمة إلى تحويلات نقدية حقيقية. خدمتنا الرائدة تُساعد الآلاف على استعادة قيمة مكافآتهم الراكدة.",
-        RamlmarketingTitle: "رمل للتسويق"
+        RamlmarketingTitle: "رمل للتسويق",
+        RamlmarketingDesc: "حلول تسويقية بسيطة ومبتكرة تربطك بسلاسة بمنصات التواصل الاجتماعي ومحترفي الإعلان.",
+        ramlJobTitle: "وظيفة الرمل",
+        ramlJobDesc: "منصة SaaS تمكنك من رفع سيرتك الذاتية، وبعدها سيتعرف عليك نظامنا وسنكون قادرين على ربط حسابك على LinkedIn والتقدم للوظائف تلقائيًا بدلاً منك."
 
 
     },
