@@ -111,7 +111,8 @@ const translations = {
         contactTeam:"Contact Our Team",
 
         //index.html
-        Simple_3step:"Simple 3-Step Process"
+        Simple_3step:"Simple 3-Step Process",
+        Converting_your_loyalty:"Converting your loyalty points has never been easier. Follow our transparent process for guaranteed results."
 
 
 
@@ -229,7 +230,9 @@ const translations = {
         contactTeam:"تواصل مع فريقنا",
 
         //index.html
-        Simple_3step:"ثلاث خطوات بسيطه"
+        Simple_3step:"ثلاث خطوات بسيطه",
+        Converting_your_loyalty:"لم يكن تحويل نقاط الولاء أسهل من أي وقت مضى. اتبع إجراءاتنا الشفافة لضمان نتائج مضمونة."
+
 
 
 
