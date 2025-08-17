@@ -92,7 +92,7 @@ const translations = {
         aboutTitle: 'About <span class="text-accent">RamlGroup</span><br />Leadership in Technology',
         aboutSubtitle: "Since 2020, RamlGroup has been at the forefront of technological innovation in Saudi Arabia, enabling the market to discover new services through secure, transparent, and innovative solutions.",
         ramlPayTitle: "RamlPay",
-        ramlPayDesc " Advanced payment processing solutions for businesses. Secure, fast, and reliable payment gateway services"
+        ramlPayDesc "Advanced payment processing solutions for businesses. Secure, fast, and reliable payment gateway services"
 
     },
     ar: {
