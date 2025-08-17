@@ -119,7 +119,8 @@ const translations = {
         Provide_your_Acc:"Provide your account information and banking details through our secure, encrypted submission form.",
         Receive_cash_or:"Receive Cash or Discount from our services",
         Get_your_cash:"Get a cash amount that we will transfer to your account within two days or a discount code for one of our services directly",
-        Learn_more_about: "Learn More About Our Process"
+        Learn_more_about: "Learn More About Our Process",
+        Powered_by_RamlGroup:"Powered by RamlGroup"
 
 
 
@@ -246,7 +247,8 @@ const translations = {
         Provide_your_Acc:"قم بتقديم معلومات حسابك وتفاصيلك المصرفية من خلال نموذج الإرسال الآمن والمشفر الخاص بنا.",
         Receive_cash_or:"احصل على الكاش او خصم قوي لوحدة من خدماتنا",
         Get_your_cash:"احصل على مبلغ نقدي نقوم بتحويله لحسابك خلاال يومين أو كود خصم لوحدة من خدماتنا بشكل مباشر",
-        Learn_more_about: "تعرف على المزيد حول انشاء العملية"
+        Learn_more_about: "تعرف على المزيد حول انشاء العملية",
+        Powered_by_RamlGroup: "مدعوم من RamlGroup"
 
 
 
