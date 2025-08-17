@@ -108,7 +108,10 @@ const translations = {
         inDevelopment:"In Development",
         ctaTitle:"Ready to Transform Your Points?",
         ctaSubtitle:"Join thousands of satisfied customers who trust RamlGroup to maximize their financial potential",
-        contactTeam:"Contact Our Team"
+        contactTeam:"Contact Our Team",
+
+        //index.html
+        Simple_3step:"Simple 3-Step Process"
 
 
 
@@ -223,7 +226,10 @@ const translations = {
         inDevelopment:"قيد التطوير",
         ctaTitle:" هل أنت مستعد لتحويل نقاطك؟",
         ctaSubtitle:"انضم إلى آلاف العملاء الراضين الذين يثقون في RamlGroup لتحقيق أقصى قدر من إمكاناتهم المالية",
-        contactTeam:"تواصل مع فريقنا"
+        contactTeam:"تواصل مع فريقنا",
+
+        //index.html
+        Simple_3step:"ثلاث خطوات بسيطه"
 
 
 
