@@ -133,7 +133,8 @@ const translations = {
         Get_instant1: "Get instant help and track your conversion status",
         Chat_Now1:"Chat Now",
         Processing_today:"Processing Today",
-        Conversions_inp: "Conversions in progress"
+        Conversions_inp: "Conversions in progress",
+        Average_Days_Comple:"Average: 3.2 days completion"
 
 
 
@@ -272,7 +273,8 @@ const translations = {
         Get_instant1: "احصل على مساعدة فورية وتتبع حالة التحويل الخاصة بك",
         Chat_Now1:"تواصل الان",
         Processing_today:"معالجة اليوم",
-        Conversions_inp: "التحويلات قيد التقدم"
+        Conversions_inp: "التحويلات قيد التقدم",
+        Average_Days_Comple:"متوسط: 3.2 أيام الإنجاز"
 
 
     },
