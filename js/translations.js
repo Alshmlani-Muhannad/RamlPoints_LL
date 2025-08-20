@@ -139,7 +139,8 @@ const translations = {
         Send_Messages:"Send Message",
 
         //contact.html
-        Get_instant_supp:"Get instant support for your loyalty point conversions. Our team is ready to assist you through WhatsApp, phone, or email."
+        Get_instant_supp:"Get instant support for your loyalty point conversions. Our team is ready to assist you through WhatsApp, phone, or email.",
+        Multiple_Ways_tor:"Multiple Ways to Reach Us"
 
 
 
@@ -284,7 +285,8 @@ const translations = {
         Send_Messages:"ارسل لنا",
 
         //contact.html
-        Get_instant_supp:"احصل على دعم فوري لتحويل نقاط الولاء الخاصة بك. فريقنا جاهز لمساعدتك عبر واتساب أو الهاتف أو البريد الإلكتروني."
+        Get_instant_supp:"احصل على دعم فوري لتحويل نقاط الولاء الخاصة بك. فريقنا جاهز لمساعدتك عبر واتساب أو الهاتف أو البريد الإلكتروني.",
+        Multiple_Ways_tor:"طرق متعددة للوصول إلينا"
 
 
 
