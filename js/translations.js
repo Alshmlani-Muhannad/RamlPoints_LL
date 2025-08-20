@@ -145,7 +145,9 @@ const translations = {
         WhatsApp_support_1: "WhatsApp Support",
         Instant_messagingsupport:"Instant messaging support with quick responses",
         Available_twentyfour:"Available 24/7",
-        Email_supportl:"Email Support"
+        Email_supportl:"Email Support",
+        Detaild_support_viaemail: "Detailed support via email with 24-hour response"
+
 
 
 
@@ -301,7 +303,8 @@ const translations = {
         WhatsApp_support_1: "دعم واتساب",
         Instant_messagingsupport:"دعم مباشر وسريع",
         Available_twentyfour:"متوفر 24/7",
-        Email_supportl:"دعم ايميل"
+        Email_supportl:"دعم ايميل",
+        Detaild_support_viaemail: "دعم مفصل عبر البريد الإلكتروني مع استجابة على مدار 24 ساعة"
 
         
 
