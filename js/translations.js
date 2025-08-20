@@ -142,7 +142,8 @@ const translations = {
         Get_instant_supp:"Get instant support for your loyalty point conversions. Our team is ready to assist you through WhatsApp, phone, or email.",
         Multiple_Ways_tor:"Multiple Ways to Reach Us",
         Choose_your_preferredc:"Choose your preferred communication method. We're available through various channels to assist you.",
-        WhatsApp_support_1: "WhatsApp Support"
+        WhatsApp_support_1: "WhatsApp Support",
+        Instant_messagingsupport:"Instant messaging support with quick responses"
 
         
 
@@ -293,7 +294,8 @@ const translations = {
         Get_instant_supp:"احصل على دعم فوري لتحويل نقاط الولاء الخاصة بك. فريقنا جاهز لمساعدتك عبر واتساب أو الهاتف أو البريد الإلكتروني.",
         Multiple_Ways_tor:"طرق متعددة للوصول إلينا",
         Choose_your_preferredc:"اختر طريقة التواصل المفضلة لديك. نحن متاحون لمساعدتك عبر قنوات متعددة.",
-        WhatsApp_support_1: "دعم واتساب"
+        WhatsApp_support_1: "دعم واتساب",
+        Instant_messagingsupport:"دعم المراسلة الفورية مع الردود السريعة"
 
         
 
