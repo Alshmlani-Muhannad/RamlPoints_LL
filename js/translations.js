@@ -134,7 +134,9 @@ const translations = {
         Chat_Now1:"Chat Now",
         Processing_today:"Processing Today",
         Conversions_inp: "Conversions in progress",
-        Average_Days_Comple:"Average: 3.2 days completion"
+        Average_Days_Comple:"Average: 3.2 days completion",
+        Quick_Contact:"Quick Contact",
+        Send_Messages:"Send Message"
 
 
 
@@ -274,7 +276,9 @@ const translations = {
         Chat_Now1:"تواصل الان",
         Processing_today:"معالجة اليوم",
         Conversions_inp: "التحويلات قيد التقدم",
-        Average_Days_Comple:"متوسط: 3.2 أيام الإنجاز"
+        Average_Days_Comple:"متوسط: 3.2 أيام الإنجاز",
+        Quick_Contact:"تواصل سريع",
+        Send_Messages:"ارسل لنا"
 
 
     },
