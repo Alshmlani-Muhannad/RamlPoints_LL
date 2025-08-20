@@ -151,7 +151,10 @@ const translations = {
         Genreal_support:"General Support",
         Send_Us_amessage:"Send Us a Message",
         fill_out_the_form:"Fill out the form below and we'll get back to you within 24 hours. All fields marked with * are required.",
-        Full_namel:"Full Name *"
+        Full_namel:"Full Name *",
+        Email_Address:"Email Address *",
+        Phone_Numberl:"Phone Number"
+
 
 
 
@@ -315,7 +318,9 @@ const translations = {
         Genreal_support:"دعم عام",
         Send_Us_amessage:"ارسل لنا رسالة",
         fill_out_the_form:"املأ النموذج أدناه وسنتواصل معك خلال ٢٤ ساعة. جميع الحقول التي تحمل علامة * مطلوبة.",
-        Full_namel:"الاسم الكامل *"
+        Full_namel:"الاسم الكامل *",
+        Email_Address:"البريد الشخصي *",
+        Phone_Numberl:"رقم الهاتف"
 
 
         
