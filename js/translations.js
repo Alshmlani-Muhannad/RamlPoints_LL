@@ -148,7 +148,10 @@ const translations = {
         Email_supportl:"Email Support",
         Detaild_support_viaemail: "Detailed support via email with 24-hour response",
         Response_within_twentyfourhours:"Response within 24 hours",
-        Genreal_support:"General Support"
+        Genreal_support:"General Support",
+        Send_Us_amessage:"Send Us a Message",
+        fill_out_the_form:"Fill out the form below and we'll get back to you within 24 hours. All fields marked with * are required."
+
 
 
 
@@ -308,7 +311,9 @@ const translations = {
         Email_supportl:"دعم ايميل",
         Detaild_support_viaemail: "دعم مفصل عبر البريد الإلكتروني مع استجابة على مدار 24 ساعة",
         Response_within_twentyfourhours:"الرد في خلال 24 ساعة",
-        Genreal_support:"دعم عام"
+        Genreal_support:"دعم عام",
+        Send_Us_amessage:"ارسل لنا رسالة",
+        fill_out_the_form:"املأ النموذج أدناه وسنتواصل معك خلال ٢٤ ساعة. جميع الحقول التي تحمل علامة * مطلوبة."
 
 
         
