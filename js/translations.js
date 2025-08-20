@@ -146,7 +146,8 @@ const translations = {
         Instant_messagingsupport:"Instant messaging support with quick responses",
         Available_twentyfour:"Available 24/7",
         Email_supportl:"Email Support",
-        Detaild_support_viaemail: "Detailed support via email with 24-hour response"
+        Detaild_support_viaemail: "Detailed support via email with 24-hour response",
+        Response_within_twentyfourhours:"Response within 24 hours"
 
 
 
@@ -304,7 +305,9 @@ const translations = {
         Instant_messagingsupport:"دعم مباشر وسريع",
         Available_twentyfour:"متوفر 24/7",
         Email_supportl:"دعم ايميل",
-        Detaild_support_viaemail: "دعم مفصل عبر البريد الإلكتروني مع استجابة على مدار 24 ساعة"
+        Detaild_support_viaemail: "دعم مفصل عبر البريد الإلكتروني مع استجابة على مدار 24 ساعة",
+        Response_within_twentyfourhours:"الرد في خلال 24 ساعة"
+
 
         
 
