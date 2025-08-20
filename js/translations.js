@@ -136,10 +136,7 @@ const translations = {
         Conversions_inp: "Conversions in progress",
         Average_Days_Comple:"Average: 3.2 days completion",
         Quick_Contact:"Quick Contact",
-        Send_Messages:"Send Message",
-
-        //contact.html
-        Contact_RamlPointsl:"Contact RamlPoints - Get Support & Assistance"
+        Send_Messages:"Send Message"
 
 
 
@@ -281,10 +278,7 @@ const translations = {
         Conversions_inp: "التحويلات قيد التقدم",
         Average_Days_Comple:"متوسط: 3.2 أيام الإنجاز",
         Quick_Contact:"تواصل سريع",
-        Send_Messages:"ارسل لنا",
-
-        //contact.html
-        Contact_RamlPointsl:"تواصل مع RamlPoints - احصل على الدعم والمساعدة"
+        Send_Messages:"ارسل لنا"
 
 
     },
