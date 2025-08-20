@@ -131,7 +131,10 @@ const translations = {
         Get_instant_suppo:"Get instant support through WhatsApp or explore our comprehensive help resources",
         WhatsApp_support_1: "WhatsApp Support",
         Get_instant1: "Get instant help and track your conversion status",
-        Chat_Now1:"Chat Now"
+        Chat_Now1:"Chat Now",
+        Processing_Today:"Processing Today",
+        Conversions_in_progress: "Conversions in progress",
+        Average:_3_2: "Average: 3.2 days completion"
 
 
 
@@ -268,7 +271,10 @@ const translations = {
         Get_instant_suppo:"احصل على الدعم الفوري عبر WhatsApp أو استكشف خدمات المساعدة الشاملة لدينا",
         WhatsApp_support_1: "دعم واتساب",
         Get_instant1: "احصل على مساعدة فورية وتتبع حالة التحويل الخاصة بك",
-        Chat_Now1:"تواصل الان"
+        Chat_Now1:"تواصل الان",
+        Processing_Today:"معالجة اليوم",
+        Conversions_in_progress: "التحويلات قيد التقدم",
+        Average:_3_2: "متوسط: 3.2 أيام الإنجاز"
 
 
     },
