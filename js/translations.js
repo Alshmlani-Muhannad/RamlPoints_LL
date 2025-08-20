@@ -128,8 +128,10 @@ const translations = {
         customer_support_via:"24/7 customer support via WhatsApp",
         Learn_About_RamlGroup:"Learn About RamlGroup",
         Need_help_we_are:"Need Help? We're Here for You",
-        Get_instant_suppo:"Get instant support through WhatsApp or explore our comprehensive help resources"
-
+        Get_instant_suppo:"Get instant support through WhatsApp or explore our comprehensive help resources",
+        WhatsApp_support_1: "WhatsApp Support",
+        Get_instant1: "Get instant help and track your conversion status",
+        Chat_Now1:"Chat Now"
 
 
 
@@ -263,7 +265,10 @@ const translations = {
         customer_support_via:"دعم العملاء على مدار الساعة طوال أيام الأسبوع عبر WhatsApp",
         Learn_About_RamlGroup:"تعرف على رمل قروب",
         Need_help_we_are:"هل تحتاج مساعدة؟ نحن هنا لمساعدتك",
-        Get_instant_suppo:"احصل على الدعم الفوري عبر WhatsApp أو استكشف خدمات المساعدة الشاملة لدينا"
+        Get_instant_suppo:"احصل على الدعم الفوري عبر WhatsApp أو استكشف خدمات المساعدة الشاملة لدينا",
+        WhatsApp_support_1: "دعم واتساب",
+        Get_instant1: "احصل على مساعدة فورية وتتبع حالة التحويل الخاصة بك",
+        Chat Now:"تواصل الان"
 
 
     },
