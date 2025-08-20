@@ -136,7 +136,10 @@ const translations = {
         Conversions_inp: "Conversions in progress",
         Average_Days_Comple:"Average: 3.2 days completion",
         Quick_Contact:"Quick Contact",
-        Send_Messages:"Send Message"
+        Send_Messages:"Send Message",
+
+        //contact.html
+        Get_instant_supp:"Get instant support for your loyalty point conversions. Our team is ready to assist you through WhatsApp, phone, or email."
 
 
 
@@ -278,7 +281,11 @@ const translations = {
         Conversions_inp: "التحويلات قيد التقدم",
         Average_Days_Comple:"متوسط: 3.2 أيام الإنجاز",
         Quick_Contact:"تواصل سريع",
-        Send_Messages:"ارسل لنا"
+        Send_Messages:"ارسل لنا",
+
+        //contact.html
+        Get_instant_supp:"احصل على دعم فوري لتحويل نقاط الولاء الخاصة بك. فريقنا جاهز لمساعدتك عبر واتساب أو الهاتف أو البريد الإلكتروني."
+
 
 
     },
