@@ -132,7 +132,7 @@ const translations = {
         WhatsApp_support_1: "WhatsApp Support",
         Get_instant1: "Get instant help and track your conversion status",
         Chat_Now1:"Chat Now",
-        
+        Processing_today:"Processing Today"
 
 
 
@@ -269,7 +269,8 @@ const translations = {
         Get_instant_suppo:"احصل على الدعم الفوري عبر WhatsApp أو استكشف خدمات المساعدة الشاملة لدينا",
         WhatsApp_support_1: "دعم واتساب",
         Get_instant1: "احصل على مساعدة فورية وتتبع حالة التحويل الخاصة بك",
-        Chat_Now1:"تواصل الان"
+        Chat_Now1:"تواصل الان",
+        Processing_today:"معالجة اليوم"
 
 
     },
