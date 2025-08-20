@@ -268,7 +268,7 @@ const translations = {
         Get_instant_suppo:"احصل على الدعم الفوري عبر WhatsApp أو استكشف خدمات المساعدة الشاملة لدينا",
         WhatsApp_support_1: "دعم واتساب",
         Get_instant1: "احصل على مساعدة فورية وتتبع حالة التحويل الخاصة بك",
-        Chat Now:"تواصل الان"
+        Chat_Now1:"تواصل الان"
 
 
     },
