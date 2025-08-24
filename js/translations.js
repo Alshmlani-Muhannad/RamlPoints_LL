@@ -165,7 +165,17 @@ const translations = {
         Billing_Payment:"Billing & Payment",
         Program_Information:"Program Information",
         Partnership_Inquiry:"Partnership Inquiry",
-        Other_rrc:"Other"
+        Other_rrc:"Other",
+        Related_loyalty_program:"Related Loyalty Program",
+        Alrajhi_issue:"Al Rajhi Mokafaa",
+        Qitaf_issue:"Qitaf",
+        Akther_issue:"Akther Alinma",
+        ANB_issue:"ANB Rewards",
+        IZ_issue:"IZ Wallet",
+        BSF_issue:"BSF Jana",
+        Other_issue:"Other Program"
+
+
 
 
 
@@ -345,7 +355,17 @@ const translations = {
         Billing_Payment:"الفواتير والدفع",
         Program_Information:"معلومات البرنامج",
         Partnership_Inquiry:"استفسار الشراكة",
-        Other_rrc:"اخرى"
+        Other_rrc:"اخرى",
+        Related_loyalty_program:"برنامج الولاء ذو ​​الصلة",
+        Alrajhi_issue:"مكافأة الراجحي",
+        Qitaf_issue:"قطاف",
+        Akther_issue:"اكثر الانماء",
+        ANB_issue:"جوائز العربي",
+        IZ_issue:"محفة عز",
+        BSF_issue:"جنى من البنك الفرنسي السعودي",
+        Other_issue:"محافظ اخرى"
+
+        
 
 
         
