@@ -158,7 +158,10 @@ const translations = {
         phone_option: "Phone Call",
         whatsapp_option:"ًWhatsApp",
         email_option:"Email",
-        Inquiry_Category:"*Inquiry Category"
+        Inquiry_Category:"*Inquiry Category",
+        Select_catagory:"Select category",
+        Point_Conversion_Support:"Point Conversion Support"
+
 
 
 
@@ -330,7 +333,9 @@ const translations = {
         phone_option: "التواصل عبر الاتصال المباشر",
          whatsapp_option:"الرد من خلال الواتساب",
         email_option:"الرد من خلال الايميل",
-        Inquiry_Category:"فئة الاستفسار"
+        Inquiry_Category:"فئة الاستفسار",
+        Select_catagory:"اختر الفئة",
+        Point_Conversion_Support:"تحويل النقاط"
 
 
         
