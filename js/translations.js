@@ -183,7 +183,8 @@ const translations = {
         Terms_Agreement: `I agree to the <a href="terms_privacy.html" class="text-accent hover:underline">Terms of Service & Privacy Policy</a>. I consent to RamlPoints contacting me via my preferred method regarding my inquiry. *`,
         Terms_Privacy_Link: "Terms of Service & Privacy Policy",
         Send_Message_ll:"Send Message",
-        We_will_respond:"We'll respond within 24 hours"
+        We_will_respond:"We'll respond within 24 hours",
+        We_r_here:">We're Here to Help"
 
 
 
@@ -384,7 +385,8 @@ const translations = {
         Terms_Agreement: `أوافق على <a href="terms_privacy.html" class="text-accent hover:underline">الشروط والأحكام وسياسة الخصوصية</a>. أوافق على أن تتواصل معي RamlPoints عبر طريقتي المفضلة بخصوص استفساري. *`,
         Terms_Privacy_Link: "شروط الخدمة وسياسة الخصوصية",
         Send_Message_ll:"ارسل الرسالة",
-        We_will_respond:"سوف نقوم بالرد خلال 24 ساعة"
+        We_will_respond:"سوف نقوم بالرد خلال 24 ساعة",
+        We_r_here:"نحن هنا للمساعدة"
         
 
         
