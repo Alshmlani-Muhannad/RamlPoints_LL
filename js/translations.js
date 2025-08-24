@@ -155,7 +155,9 @@ const translations = {
         Email_Address:"*Email Address",
         Phone_Numberl:"Phone Number",
         Prefeeed_response_method: "* Prefeeed response method",
-        phone_option: "Phone Call"
+        phone_option: "Phone Call",
+        whatsapp_option:"ًWhatsApp",
+        email_option:"Email"
 
 
 
@@ -324,7 +326,9 @@ const translations = {
         Email_Address:"البريد الشخصي *",
         Phone_Numberl:"رقم الهاتف",
         Prefeeed_response_method: "*الطريقة المفضلة للتواصل",
-        phone_option: "التواصل عبر الاتصال المباشر"
+        phone_option: "التواصل عبر الاتصال المباشر",
+         whatsapp_option:"الرد على الواتساب",
+        email_option:"الرد من خلال الايميل"
 
 
         
