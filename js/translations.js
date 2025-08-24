@@ -178,7 +178,8 @@ const translations = {
         message_input:"* Message",
         Priority_level:"Priority Level",
         Low_level:"Low - General inquiry",
-        Medium_level:"Medium - Standard support"
+        Medium_level:"Medium - Standard support",
+        High_level_support:"High - Urgent assistance needed"
 
 
 
@@ -373,7 +374,8 @@ const translations = {
         message_input:"* الرسالة",
         Priority_level:"مستوى الأولوية",
         Low_level:"منخفض - استفسار عام",
-        Medium_level:"متوسط ​​- دعم قياسي"
+        Medium_level:"متوسط ​​- دعم قياسي",
+        High_level_support:"عالية - هناك حاجة إلى مساعدة عاجلة"
         
 
         
