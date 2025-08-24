@@ -154,7 +154,8 @@ const translations = {
         Full_namel:"Full Name *",
         Email_Address:"*Email Address",
         Phone_Numberl:"Phone Number",
-        Prefeeed_response_method: "* Prefeeed response method "
+        Prefeeed_response_method: "* Prefeeed response method",
+        phone_option: "Phone Call"
 
 
 
@@ -322,7 +323,8 @@ const translations = {
         Full_namel:"الاسم الكامل *",
         Email_Address:"البريد الشخصي *",
         Phone_Numberl:"رقم الهاتف",
-        Prefeeed_response_method: "*الطريقة المفضلة للتواصل"
+        Prefeeed_response_method: "*الطريقة المفضلة للتواصل",
+        phone_option: "التواصل عبر الاتصال المباشر"
 
 
         
