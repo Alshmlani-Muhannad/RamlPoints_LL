@@ -152,8 +152,9 @@ const translations = {
         Send_Us_amessage:"Send Us a Message",
         fill_out_the_form:"Fill out the form below and we'll get back to you within 24 hours. All fields marked with * are required.",
         Full_namel:"Full Name *",
-        Email_Address:"Email Address *",
-        Phone_Numberl:"Phone Number"
+        Email_Address:"*Email Address",
+        Phone_Numberl:"Phone Number",
+        Prefeeed_response_method: "* Prefeeed response method "
 
 
 
@@ -320,7 +321,8 @@ const translations = {
         fill_out_the_form:"املأ النموذج أدناه وسنتواصل معك خلال ٢٤ ساعة. جميع الحقول التي تحمل علامة * مطلوبة.",
         Full_namel:"الاسم الكامل *",
         Email_Address:"البريد الشخصي *",
-        Phone_Numberl:"رقم الهاتف"
+        Phone_Numberl:"رقم الهاتف",
+        Prefeeed_response_method: "*الطريقة المفضلة للتواصل"
 
 
         
