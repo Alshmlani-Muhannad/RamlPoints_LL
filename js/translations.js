@@ -157,7 +157,8 @@ const translations = {
         Prefeeed_response_method: "* Prefeeed response method",
         phone_option: "Phone Call",
         whatsapp_option:"ًWhatsApp",
-        email_option:"Email"
+        email_option:"Email",
+        Inquiry_Category:"*Inquiry Category"
 
 
 
@@ -327,8 +328,9 @@ const translations = {
         Phone_Numberl:"رقم الهاتف",
         Prefeeed_response_method: "*الطريقة المفضلة للتواصل",
         phone_option: "التواصل عبر الاتصال المباشر",
-         whatsapp_option:"الرد على الواتساب",
-        email_option:"الرد من خلال الايميل"
+         whatsapp_option:"الرد من خلال الواتساب",
+        email_option:"الرد من خلال الايميل",
+        Inquiry_Category:"فئة الاستفسار"
 
 
         
