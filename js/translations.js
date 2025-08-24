@@ -394,6 +394,7 @@ const translations = {
     },
 };
 
+
 // Current language state
 let currentLanguage = 'en';
 
