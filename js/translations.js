@@ -175,7 +175,8 @@ const translations = {
         BSF_issue:"BSF Jana",
         Other_issue:"Other Program",
         Select_issue:"Select program (if applicable)",
-        message_input:"* Message"
+        message_input:"* Message",
+        Priority_level:"Priority Level"
 
 
 
@@ -367,7 +368,8 @@ const translations = {
         BSF_issue:"جنى من البنك الفرنسي السعودي",
         Other_issue:"محافظ اخرى",
         Select_issue:"حدد البرنامج (إذا كان ذلك ممكنا)",
-        message_input:"* الرسالة"
+        message_input:"* الرسالة",
+        Priority_level:"مستوى الأولوية"
         
 
         
