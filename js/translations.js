@@ -184,7 +184,8 @@ const translations = {
         Terms_Privacy_Link: "Terms of Service & Privacy Policy",
         Send_Message_ll:"Send Message",
         We_will_respond:"We'll respond within 24 hours",
-        We_r_here:"We're Here to Help"
+        We_r_here:"We're Here to Help",
+        Contact_Us_on_X: "Contact Us on X App"
 
 
 
@@ -386,7 +387,8 @@ const translations = {
         Terms_Privacy_Link: "شروط الخدمة وسياسة الخصوصية",
         Send_Message_ll:"ارسل الرسالة",
         We_will_respond:"سوف نقوم بالرد خلال 24 ساعة",
-        We_r_here:"نحن هنا للمساعدة"
+        We_r_here:"نحن هنا للمساعدة",
+        Contact_Us_on_X: "تواصل معنا على اكس"
         
 
         
