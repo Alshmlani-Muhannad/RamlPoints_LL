@@ -184,7 +184,7 @@ const translations = {
         Terms_Privacy_Link: "Terms of Service & Privacy Policy",
         Send_Message_ll:"Send Message",
         We_will_respond:"We'll respond within 24 hours",
-        We_r_here:">We're Here to Help"
+        We_r_here:"We're Here to Help"
 
 
 
