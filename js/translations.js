@@ -391,7 +391,7 @@ const translations = {
         We_will_respond:"سوف نقوم بالرد خلال 24 ساعة",
         We_r_here:"نحن هنا للمساعدة",
         Contact_Us_on_X: "تواصل معنا على اكس",
-        WhatsApp_support:"دعم عبر واتساب",
+        WhatsApp_support:"دعم ممتلكات عبر واتساب",
         Financial_tips_ll:"نصائح مالية ودروس تعليمية سريعة"
         
 
