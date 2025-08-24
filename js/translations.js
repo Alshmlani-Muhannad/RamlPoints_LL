@@ -180,7 +180,9 @@ const translations = {
         Low_level:"Low - General inquiry",
         Medium_level:"Medium - Standard support",
         High_level_support:"High - Urgent assistance needed",
-        Terms_Privacy_translete: ""
+        Terms_Agreement: "I agree to the {link}. I consent to RamlPoints contacting me via my preferred method regarding my inquiry. *",
+        Terms_Privacy_Link: "Terms of Service & Privacy Policy"
+
 
 
 
@@ -377,7 +379,8 @@ const translations = {
         Low_level:"منخفض - استفسار عام",
         Medium_level:"متوسط ​​- دعم قياسي",
         High_level_support:"عالية - هناك حاجة إلى مساعدة عاجلة",
-        Terms_Privacy_translete: ""
+        Terms_Agreement: "أوافق على الرابط. أوافق على أن تتواصل معي RamlPoints عبر طريقتي المفضلة بخصوص استفساري. *",
+        Terms_Privacy_Link: "شروط الخدمة وسياسة الخصوصية"
         
 
         
