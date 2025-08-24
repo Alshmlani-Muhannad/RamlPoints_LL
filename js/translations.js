@@ -176,7 +176,8 @@ const translations = {
         Other_issue:"Other Program",
         Select_issue:"Select program (if applicable)",
         message_input:"* Message",
-        Priority_level:"Priority Level"
+        Priority_level:"Priority Level",
+        Low_level:"Low - General inquiry"
 
 
 
@@ -369,7 +370,8 @@ const translations = {
         Other_issue:"محافظ اخرى",
         Select_issue:"حدد البرنامج (إذا كان ذلك ممكنا)",
         message_input:"* الرسالة",
-        Priority_level:"مستوى الأولوية"
+        Priority_level:"مستوى الأولوية",
+        Low_level:"منخفض - استفسار عام"
         
 
         
