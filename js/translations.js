@@ -179,7 +179,8 @@ const translations = {
         Priority_level:"Priority Level",
         Low_level:"Low - General inquiry",
         Medium_level:"Medium - Standard support",
-        High_level_support:"High - Urgent assistance needed"
+        High_level_support:"High - Urgent assistance needed",
+        Terms_Privacy_translete: ""
 
 
 
@@ -375,7 +376,8 @@ const translations = {
         Priority_level:"مستوى الأولوية",
         Low_level:"منخفض - استفسار عام",
         Medium_level:"متوسط ​​- دعم قياسي",
-        High_level_support:"عالية - هناك حاجة إلى مساعدة عاجلة"
+        High_level_support:"عالية - هناك حاجة إلى مساعدة عاجلة",
+        Terms_Privacy_translete: ""
         
 
         
