@@ -187,7 +187,8 @@ const translations = {
         We_r_here:"We're Here to Help",
         Contact_Us_on_X: "Contact Us on X App",
         WhatsApp_support:"WhatsApp Support",
-        Follow_Us_Stay_Connected:"Follow Us & Stay Connected"
+        Follow_Us_Stay_Connected:"Follow Us & Stay Connected",
+        Stay_updated_ll:"Stay updated with the latest news, tips, and announcements through our social media channels."
 
 
 
@@ -392,7 +393,8 @@ const translations = {
         We_r_here:"نحن هنا للمساعدة",
         Contact_Us_on_X: "تواصل معنا على اكس",
         WhatsApp_support:"دعم عبر واتساب",
-        Follow_Us_Stay_Connected:"تابعنا وابق على اتصال"
+        Follow_Us_Stay_Connected:"تابعنا وابق على اتصال",
+        Stay_updated_ll:"احصل على آخر الأخبار والنصائح والإعلانات من خلال قنوات التواصل الاجتماعي الخاصة بنا."
         
 
         
