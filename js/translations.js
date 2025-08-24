@@ -160,7 +160,12 @@ const translations = {
         email_option:"Email",
         Inquiry_Category:"*Inquiry Category",
         Select_catagory:"Select category",
-        Point_Conversion_Support:"Point Conversion Support"
+        Point_Conversion_Support:"Point Conversion Support",
+        Technical_Issue: "Technical Issue",
+        Billing_Payment:"Billing & Payment",
+        Program_Information:"Program Information",
+        Partnership_Inquiry:"Partnership Inquiry",
+        Other_rrc:"Other"
 
 
 
@@ -335,7 +340,12 @@ const translations = {
         email_option:"الرد من خلال الايميل",
         Inquiry_Category:"فئة الاستفسار",
         Select_catagory:"اختر الفئة",
-        Point_Conversion_Support:"تحويل النقاط"
+        Point_Conversion_Support:"تحويل النقاط",
+        Technical_Issue: "مشكلة فنية",
+        Billing_Payment:"الفواتير والدفع",
+        Program_Information:"معلومات البرنامج",
+        Partnership_Inquiry:"استفسار الشراكة",
+        Other_rrc:"اخرى"
 
 
         
