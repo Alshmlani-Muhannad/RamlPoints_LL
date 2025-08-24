@@ -177,7 +177,8 @@ const translations = {
         Select_issue:"Select program (if applicable)",
         message_input:"* Message",
         Priority_level:"Priority Level",
-        Low_level:"Low - General inquiry"
+        Low_level:"Low - General inquiry",
+        Medium_level:"Medium - Standard support"
 
 
 
@@ -371,7 +372,8 @@ const translations = {
         Select_issue:"حدد البرنامج (إذا كان ذلك ممكنا)",
         message_input:"* الرسالة",
         Priority_level:"مستوى الأولوية",
-        Low_level:"منخفض - استفسار عام"
+        Low_level:"منخفض - استفسار عام",
+        Medium_level:"متوسط ​​- دعم قياسي"
         
 
         
