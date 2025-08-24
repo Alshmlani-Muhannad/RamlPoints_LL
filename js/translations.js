@@ -199,12 +199,7 @@ const translations = {
 
 
         
-
-
-
-
-
-    },
+},
     ar: {
         // Navigation  
         home: "الرئيسية",
@@ -313,7 +308,7 @@ const translations = {
         inDevelopment:"قيد التطوير",
         ctaTitle:" هل أنت مستعد لتحويل نقاطك؟",
         ctaSubtitle:"انضم إلى آلاف العملاء الراضين الذين يثقون في RamlGroup لتحقيق أقصى قدر من إمكاناتهم المالية",
-        contactTeam:"تواصل مع فريقنا",
+        contactTeam:" التواصل مع فريقنا",
 
         //index.html
         Simple_3step:"ثلاث خطوات بسيطه",
@@ -394,12 +389,6 @@ const translations = {
         WhatsApp_support:"دعم ممتلكات عبر واتساب",
         Financial_tips_ll:"نصائح مالية ودروس تعليمية سريعة"
         
-
-        
-
-
-        
-
 
 
     },
