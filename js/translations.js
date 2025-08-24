@@ -187,7 +187,7 @@ const translations = {
         We_r_here:"We're Here to Help",
         Contact_Us_on_X: "Contact Us on X App",
         WhatsApp_support:"WhatsApp Support",
-        Tiktok_ll:"TikTok"
+        Financial_tips_ll:"Financial tips & quick tutorials"
 
 
 
@@ -392,7 +392,7 @@ const translations = {
         We_r_here:"نحن هنا للمساعدة",
         Contact_Us_on_X: "تواصل معنا على اكس",
         WhatsApp_support:"دعم عبر واتساب",
-        Tiktok_ll:"برنامج تيك توك"
+        Financial_tips_ll:"نصائح مالية ودروس تعليمية سريعة"
         
 
         
