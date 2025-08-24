@@ -173,7 +173,8 @@ const translations = {
         ANB_issue:"ANB Rewards",
         IZ_issue:"IZ Wallet",
         BSF_issue:"BSF Jana",
-        Other_issue:"Other Program"
+        Other_issue:"Other Program",
+        Select_issue:"Select program (if applicable)"
 
 
 
@@ -363,7 +364,9 @@ const translations = {
         ANB_issue:"جوائز العربي",
         IZ_issue:"محفة عز",
         BSF_issue:"جنى من البنك الفرنسي السعودي",
-        Other_issue:"محافظ اخرى"
+        Other_issue:"محافظ اخرى",
+        Select_issue:"حدد البرنامج (إذا كان ذلك ممكنا)",
+        
 
         
 
